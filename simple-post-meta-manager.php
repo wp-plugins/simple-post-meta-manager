@@ -1,7 +1,7 @@
 <?php
 /*
   Plugin Name: Simple Post Meta Manager
-  Plugin URI: http://www.sandorkovacs.ro/simple-sticky-footer-wordpress-plugin/
+  Plugin URI: http://www.sandorkovacs.ro/blog/simple-post-meta-manager-wordpress-plugin/
   Description: Replace meta values or rename meta keys. It is usefull when custom fields and its values were messed up. 
   Author: Sandor Kovacs
   Version: 1.0.0
