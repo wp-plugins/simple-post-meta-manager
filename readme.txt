@@ -4,8 +4,8 @@ License: GPLv2 or later
 Donate link: http://sandorkovacs84.wordpress.com/
 Tags: post meta manager,  post meta, post meta values
 Requires at least: 3.1.0
-Tested up to: 3.6.0
-Stable tag: 1.0.0
+Tested up to: 4.2.1
+Stable tag: 1.0.9
 
 
 Post Meta Manager plugin does two things: replace post meta values and rename post meta keys.
@@ -47,6 +47,12 @@ Nothing yet.
 2. Rename meta keys.
 
 == Changelog ==
+
+= 1.0.9 =
+* Test with WordPress 4.2.1
+
+= 1.0.8 =
+* Update for WordPress 3.8
 
 = 1.0 =
 * First version.
