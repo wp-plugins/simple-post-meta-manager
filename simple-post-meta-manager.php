@@ -4,7 +4,7 @@
   Plugin URI: http://www.sandorkovacs.ro/blog/simple-post-meta-manager-wordpress-plugin/
   Description: Replace meta values or rename meta keys. It is usefull when custom fields and its values were messed up. 
   Author: Sandor Kovacs
-  Version: 1.0.8
+  Version: 1.0.9
   Author URI: http://sandorkovacs.ro/en/
  */
 
